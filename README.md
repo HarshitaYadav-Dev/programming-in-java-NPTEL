@@ -1,4 +1,4 @@
 # programming-in-java-NPTEL
 This repo contains weekly solutions and notes for the NPTEL programming in java course
 <br>
-Author-Harshita Yadav
+Author-Harshita singh
